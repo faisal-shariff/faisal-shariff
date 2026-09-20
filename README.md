@@ -19,7 +19,7 @@ More to come.
 
 ### 🔗 Elsewhere
 
-[The Atomic Builder](https://atomicbuilder.beehiiv.com/) · [LinkedIn]([ADD_URL](https://www.linkedin.com/in/fshariff/)) · [X]([ADD_URL](https://x.com/faisalxshariff))
+[The Atomic Builder](https://atomicbuilder.beehiiv.com/) · [LinkedIn](https://www.linkedin.com/in/fshariff/) · [X](https://x.com/faisalxshariff)
 
 ---
 
