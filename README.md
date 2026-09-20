@@ -1,7 +1,7 @@
 
 # Hello 👋
 
-I'm Faisal. Redesigning the future of work at **[OpenAI DeployCo](https://deploy.co/)**, helping large enterprises get past AI pilots and generic training into work that has actually been redesigned.
+I'm Faisal. Shaping the future of work at **[OpenAI DeployCo](https://deploy.co/)**, helping large enterprises get past AI pilots and generic training into work that has actually been redesigned.
 
 Twenty five years in enterprise tech before that: Morgan Stanley, RBS, Citi, Tesco. Banking and retail, mostly the awkward bits nobody volunteers for.
 
@@ -13,7 +13,7 @@ I write **[The Atomic Builder](https://atomicbuilder.beehiiv.com/)**, a newslett
 
 ### 🔨 My most recent build
 
-- **[Encore](REPO_URL)** - ONE_LINE_HERE
+- **[Encore](https://musicfromphoto.com/)** - upload a photo, get back an original piece of music and the album art to go with it
 
 More to come.
 
