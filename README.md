@@ -1,7 +1,7 @@
 
 # Hello 👋
 
-I'm Faisal. Redesigning the future of work at **OpenAI DeployCo**, helping large enterprises get past AI pilots and generic training into work that has actually been redesigned.
+I'm Faisal. Redesigning the future of work at **[OpenAI DeployCo](https://deploy.co/)**, helping large enterprises get past AI pilots and generic training into work that has actually been redesigned.
 
 Twenty five years in enterprise tech before that: Morgan Stanley, RBS, Citi, Tesco. Banking and retail, mostly the awkward bits nobody volunteers for.
 
